@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\GameBackup\Source\cocos2d-x-3.2\android\adt\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\PROJECTS\ME\FragmentBackStack1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_6cae96a37ea225ea8db6fd202e71d9b1fdab2cb1\classes.dex" />
+    </item>
+    <item
+        jar="F:\PROJECTS\ME\FragmentBackStack1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f00dc19fedb3da35e87ec863e74ae8cfdd816ba9">
+        <dex dex="F:\PROJECTS\ME\FragmentBackStack1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d282c78025c0242cfed79c8e8d20f86500ece33b\classes.dex" />
+    </item>
+    <item
+        jar="F:\PROJECTS\ME\FragmentBackStack1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1a2e095c43485b60b036b306e341c245367eb8f8">
+        <dex dex="F:\PROJECTS\ME\FragmentBackStack1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5f6986859fb1482b99d3813a5a4daf1656282e88\classes.dex" />
+    </item>
+
+</items>
